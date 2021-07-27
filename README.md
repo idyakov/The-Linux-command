@@ -6,5 +6,5 @@
  Domain name servers are located in R53 
  
  
- ![Image of Yaktocat](https://octodex.github.com/idyakov/The-Linux-command/photo_2021-07-27_16-07-00.jpg)
+ ![Image of Yaktocat](https://octodex.github.com/idyakov/The-Linux-command/action.jpg)
 
