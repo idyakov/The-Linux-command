@@ -6,4 +6,4 @@
  Domain name servers are located in R53 
  
  
-https://github.com/idyakov/The-Linux-command/issues/1#issue-954336321
+![](action.jpg)
